@@ -12,4 +12,15 @@
     <artifactId>bill-interface</artifactId>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>com.walt</groupId>
+            <artifactId>bill-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.walt</groupId>
+            <artifactId>bill-domain</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
